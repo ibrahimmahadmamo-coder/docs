@@ -686,4 +686,4 @@ if __name__ == "__main__":
     if config.discord_bot_token:
         client.run(config.discord_bot_token)
     else:
-        print("⚠️ No Discord token set. Running web dashboard only.")
+        print("⚠️ No Discord token set. Running web dashboard only.") 
